@@ -32,8 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
-/target/
+
 *.log
 .idea/
-*.iml
-bookingsystemdb.*
+
+.DS_Store
